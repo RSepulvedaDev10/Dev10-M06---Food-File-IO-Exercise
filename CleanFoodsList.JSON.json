@@ -1,0 +1,24 @@
+[{
+"food": "donut", 
+"highfiber": "no", 
+"low-glycemic": "no", 
+"lowfat": "no"
+}, 
+{
+"food": "carrot", 
+"highfiber": "yes", 
+"low-glycemic": "yes", 
+"lowfat": "yes"
+}, 
+{
+"food": "strawberry", 
+"highfiber": "yes", 
+"low-glycemic": "yes", 
+"lowfat": "yes"
+}, 
+{
+"food": "doritos: cool ranch", 
+"highfiber": "no", 
+"low-glycemic": "no", 
+"lowfat": "no"
+}]
